@@ -25,7 +25,7 @@ A smart chatbot application that answers questions based on your own documents u
 
 ### 1. Clone & Setup
 ```
-git clone https://github.com/ThomasJanssen-tech/LangChain-Pinecone-RAG.git
+https://github.com/kvprasannakumar05/rag-chatbot.git
 ```
 
 ### 2. Create Virtual Environment
